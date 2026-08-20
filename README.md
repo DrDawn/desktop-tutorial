@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Refresher Tutorial
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is used following the Teachers Tech YT video https://www.youtube.com/watch?v=7he1NyV5Q9s 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Began 8/20/26
